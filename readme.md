@@ -90,7 +90,7 @@ You’re in full control of what’s collected and where it goes.
 
 For questions, bug reports, or collaborations:  
 📧 **syntaxsentry99@gmail.com**  
-🌐 [YourWebsite.com](https://syntax-sentry.prodijee.in)
+🌐 [syntax-sentry.prodijee.in](https://syntax-sentry.prodijee.in)
 
 ---
 
