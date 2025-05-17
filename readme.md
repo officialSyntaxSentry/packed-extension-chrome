@@ -11,7 +11,7 @@ To use this extension outside the Chrome Web Store, you can manually install it 
 
 ### Step-by-Step:
 
-1. **Download the `.crx` file** from the [Releases](https://github.com/officialsyntaxsentry/syntax-sentry/releases) section.
+1. **Download the `.crx` file** from the [Releases](https://github.com/officialSyntaxSentry/packed-extension-chrome/blob/main/final-core.crx) section.
 2. Go to `chrome://extensions/` in your browser.
 3. **Enable Developer Mode** (toggle in the top-right corner).
 4. Drag and drop the `.crx` file onto the extensions page.
@@ -60,22 +60,6 @@ If you're a developer or want to inspect or modify the extension:
 
 Now you're running Syntax Sentry in development mode.
 
----
-
-## 📂 Folder Structure
-
-```
-syntax-sentry/
-├── icons/               # Extension icons (16x16 to 128x128)
-├── popup/               # HTML and assets for the browser popup
-├── content/             # Scripts injected into target websites
-├── services/            # API communication and session management
-├── background.js        # Service worker
-├── manifest.json        # Extension manifest
-└── README.md
-```
-
----
 
 ## 🔐 Privacy & Data Usage
 
@@ -100,31 +84,13 @@ You’re in full control of what’s collected and where it goes.
 
 ---
 
-## 🤝 Contributing
-
-Want to improve Syntax Sentry? Contributions are welcome!
-
-1. Fork the repository
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit and push your changes
-4. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 ## ✉️ Contact
 
 For questions, bug reports, or collaborations:  
-📧 **email@example.com**  
-🌐 [YourWebsite.com](https://yourwebsite.com)
+📧 **syntaxsentry99@gmail.com**  
+🌐 [YourWebsite.com](https://syntax-sentry.prodijee.in)
 
 ---
 
